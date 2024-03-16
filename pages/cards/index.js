@@ -30,7 +30,7 @@ export default function Cards({ }) {
 
   return (
     <Layout>
-      <div className='flex justify-between px-2'>
+      <div className='flex justify-between px-2 mt-4'>
         <div className='flex space-x-4'>
           <div>
             <div className='text-xs font-semibold'>Category:</div>
